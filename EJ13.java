@@ -1,9 +1,13 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-//EJ.13
+*// 13.En un taller de cotxes, cada volta que un treballador acaba una feina,
+    //inserix en l’ordinador el seu nom, la data (dia, mes i any) i 
+    //quantes hores i minuts ha estat treballant. 
+    //a)Definix  la  classe Feinaamb  les  variables: nom,  dia,mes,  any,  hores, minuts.
+    //b)El programa serà un bucle amb un menú:1.Afegir feina2.Llistar feines d’un treballador3.Eixir
+    //1. Demanar dades d’una feina i afegir-la en un vector de feines.2. Demanar el nom del treballador.
+    //Es mostrarà per pantalla una líniaper cada  feina  seua  (amb  les  dades corresponents)i,  a  la  dreta, 
+    //l’import  a cobrar  corresponent,  a  40  €  l’hora.Al  final  del  llistat,  es  posarà  la quantitat d’hores 
+    //i minuts totals, així com l’import total del treballador.
+    
 package javaapplication80;
 
 import java.util.Scanner;
